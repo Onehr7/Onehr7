@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Onehr7">
 
-## 联系我
-
-微信：wx_whr142857
-
 [LeetCode](https://leetcode-cn.com/u/edocteel-3/)
 
 [Blog](http://whairui.wang/)
