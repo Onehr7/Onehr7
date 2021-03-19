@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 微信：wx_whr142857
 
-[LeetCode](https://blog.csdn.net/weixin_43116910)
+[LeetCode](https://leetcode-cn.com/u/edocteel-3/)
 
 [Blog](http://whairui.wang/)
