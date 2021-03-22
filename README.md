@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Onehr7/count.svg" alt="Visitor Count" />
 </p>
+
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
