@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Onehr7">
 
-[LeetCode](https://leetcode-cn.com/u/edocteel-3/)
-
-[Blog](http://whairui.wang/)
-
-
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Onehr7/count.svg" alt="Visitor Count" />
 </p>
